@@ -14,9 +14,10 @@ Gráficas y tablas utilizadas para analizar los resultados obtenidos.
 
 El objetivo principal es comprobar experimentalmente cómo las señales periódicas pueden representarse mediante componentes sinusoidales y analizar la relación entre su forma en el dominio del tiempo y su contenido en frecuencia.
 
-Herramientas utilizadas
-MATLAB
-Osciloscopio Tektronix TDS 2012C
-Series de Fourier
-Transformada Rápida de Fourier (FFT)
-Archivos CSV para el almacenamiento de datos experimentales
+### Herramientas utilizadas
+
+- **MATLAB**
+- **Tektronix TDS 2012C**
+- Series de Fourier
+- Transformada Rápida de Fourier (FFT)
+- Archivos CSV para el almacenamiento de datos experimentales
