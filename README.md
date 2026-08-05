@@ -1,4 +1,4 @@
-# Procesamiento-de-Señales
+# Procesamiento de Señales
 Este repositorio contiene el desarrollo de una práctica de análisis de señales periódicas, en la cual se estudiaron señales senoidales, triangulares, cuadradas y de pulso mediante herramientas teóricas y experimentales.
 
 El trabajo incluye:
