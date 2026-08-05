@@ -17,7 +17,7 @@ El objetivo principal es comprobar experimentalmente cómo las señales periódi
 ### Herramientas utilizadas
 
 - **MATLAB**
-- **Tektronix TDS 2012C**
+- Osciloscopio Tektronix TDS 2012C
 - Series de Fourier
 - Transformada Rápida de Fourier (FFT)
 - Archivos CSV para el almacenamiento de datos experimentales
